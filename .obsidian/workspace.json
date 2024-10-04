@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2024-10-04-first-post.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2024-10-04-first-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2024-10-04-first-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_posts/2024-10-04-first-post.md"
               }
             }
           },
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,9 +183,10 @@
   },
   "active": "ee51163a5dc302ac",
   "lastOpenFiles": [
-    "_posts/First Post.md",
-    "_posts/2024-10-04-first-post.md",
     "_posts/2024-10-04-welcome-to-jekyll.md",
+    "_posts/2024-10-04-first-post.md",
+    "index.md",
+    "_posts/First Post.md",
     "_site/jekyll/update/2024/10/04/welcome-to-jekyll.html",
     "_site/jekyll/update/2024/10/04",
     "_site/jekyll/update/2024/10",
@@ -197,7 +198,6 @@
     "_site/jekyll/update",
     "_site/jekyll",
     "_site/index.html",
-    "index.md",
     "about.md",
     "blog/_posts/First Post.md",
     "blog/about.md",
