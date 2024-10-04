@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "public/First Post.md",
+                "file": "First Post.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "public/README.md",
+                "file": "First Post.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "public/README.md",
+                "file": "First Post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "public/README.md",
+                "file": "First Post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +138,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "public/README.md"
+                "file": "First Post.md"
               }
             }
+          },
+          {
+            "id": "3d7fb8b6c75064fe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,8 +170,8 @@
   },
   "active": "1796fa5a94239679",
   "lastOpenFiles": [
-    "public",
-    "public/First Post.md",
-    "public/README.md"
+    "README.md",
+    "First Post.md",
+    "public"
   ]
 }
