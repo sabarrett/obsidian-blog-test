@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/First Post.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/First Post.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/First Post.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/First Post.md"
+                "file": "index.md"
               }
             }
           },
@@ -183,6 +183,9 @@
   },
   "active": "ee51163a5dc302ac",
   "lastOpenFiles": [
+    "_posts/First Post.md",
+    "_posts/2024-10-04-first-post.md",
+    "_posts/2024-10-04-welcome-to-jekyll.md",
     "_site/jekyll/update/2024/10/04/welcome-to-jekyll.html",
     "_site/jekyll/update/2024/10/04",
     "_site/jekyll/update/2024/10",
@@ -194,11 +197,9 @@
     "_site/jekyll/update",
     "_site/jekyll",
     "_site/index.html",
-    "_site/feed.xml",
     "index.md",
     "about.md",
     "blog/_posts/First Post.md",
-    "_posts/First Post.md",
     "blog/about.md",
     "blog/index.md"
   ]
