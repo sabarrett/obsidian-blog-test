@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First Post.md",
+                "file": "_posts/First Post.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,14 @@
             "id": "a9e65683e30db276",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "First Post.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First Post.md",
+                "file": "_posts/First Post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First Post.md",
+                "file": "_posts/First Post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "First Post.md"
+                "file": "_posts/First Post.md"
               }
             }
           },
@@ -168,10 +166,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1796fa5a94239679",
+  "active": "656276f07d4b7c72",
   "lastOpenFiles": [
-    "README.md",
-    "First Post.md",
+    "about.md",
+    "_posts/First Post.md",
+    "_posts",
+    "_config.yml",
     "public"
   ]
 }
