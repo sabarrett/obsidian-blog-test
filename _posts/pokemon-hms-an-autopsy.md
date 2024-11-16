@@ -7,11 +7,11 @@ Mechanically, this also plays to Pokémon's strengths. The games are often excel
 That's why everyone loves HMs, and they remain a staple of the Pokémon games to this day.
 
 ---
-Just kidding! HMs caused some serious problems, and fans' complaints about HMs grew steadily louder over time. By looking at how HMs changed over time, it's evident that Game Freak either capitulated or agreed with fans' perspective. At first, new HMs were being added every generation, but the compounding problems had clearly reached a critical point sometime before the release of Generation V (_Pokémon Black_ and _White_). Gen V was not only the first generation to _not add_ a new HM, it was also the first generation _remove_ an HM without replacing it with another -- and it removed _two_! Generation VI (_Pokémon X_ and _Y_) was the last generation to feature HMs at all.
+Just kidding! HMs caused some serious problems, and fans' complaints about HMs grew steadily louder over time. By looking at how HMs changed over time, it's evident that Game Freak either capitulated to or agreed with the fans. At first, new HMs were being added every generation, but the compounding problems had clearly reached a critical point sometime before the release of Generation V (_Pokémon Black_ and _White_). Gen V was not only the first generation to _not add_ a new HM, it was also the first generation _remove_ an HM without replacing it with another -- and it removed _two_! Generation VI (_Pokémon X_ and _Y_) was the last generation to feature HMs at all.
 
 We're now up to Generation IX, and HMs have been a thing of the past for three whole generations. If HMs have been non-existent for fully a third of the Pokémon franchise's life, could it be that they were never any good to begin with?
 
-To answer that, let's start by summarizing the major problems of HMs.
+To answer that, let's start by summarizing the major problems of HMs:
 
 **HMs take up move slots.** As I mentioned before, HMs take up a slot of your Pokémon's combat moves. But, with only four slots available for each Pokémon, you don't have many to spare. A full team of 6 Pokémon has only 24 total move slots, and HMs eat into that.
 
@@ -31,7 +31,7 @@ To answer that, let's start by summarizing the major problems of HMs.
 
 _Most of these moves were terrible when they were introduced._ There are some exceptions -- Surf is a great water move, even to this day. Fly was great in the early generations. Waterfall was a worse version of Surf when it was introduced[^1] but got buffed in Generation IV (_Pokémon Diamond_ and _Pearl_). _Every other HM is a bad combat option in its respective game, even at the point in the game you get it._
 
-[^1]: I just learned while writing this that Waterfall, while introduced as an HM in Gen II, was actually already a move in Gen I! It was the signature move of the Goldeen evolutionary line. Who knew! People who had a Goldeen in their party, I guess.
+[^1]: I just learned while writing this that Waterfall, while introduced as an HM in Gen II, was actually already a move in Gen I! It was the signature move of the Goldeen evolutionary line. Who knew! Well, people who had a Goldeen in their party knew, I guess.
 
 ---
 Note that each of these problems compound on each other. If HMs take up a smaller share of move slots, it's not as big a deal if they're bad in combat, because you don't give up as much to keep them around. If HMs are easy to unlearn, it's not a big deal if they take up a move slot -- you can easily replace that slot with a better move later. So fixing or minimizing even one of these problems lessens all the issues HMs have. So, did these problems get worse over time? Or were they always bad?
@@ -47,7 +47,7 @@ As for the relative power of HMs, this is where things get a little more interes
 4. Strength
 5. Flash
 
-2 of these are contenders for best moves of their respective type. The other 3 are bad options even by the time you get them. _Future generations had a worse ratio than this._ This is as good as it gets!
+2 of these (Surf and Fly) are contenders for best moves of their respective type. The other 3 are bad options even by the time you get them. _Future generations had a worse ratio than this._ This is as good as it gets!
 
 But there's more to it than that. This problem is the least bad in Gen I for more reasons than just the ratio of good HM moves to bad ones. The other mitigating factor is that _Gen I move slots were less valuable, because there were fewer good moves._
 
@@ -68,9 +68,9 @@ It may seem unfair to pick an Electric type, since they have famously shallow mo
 [^2]: Please note that, while I knew Pikachu's move pool was very shallow before I started writing this, I didn't cherry pick Charizard -- I didn't even know his Gen I move pool before I started writing this. I just thought, "Who's likely to have a deep move pool in Gen I?" and looked up whoever I thought of. I was honestly surprised to only see two types in all of Charizard's level up learn set, but I shouldn't have been. _This is just what Gen I move pools look like._
 
 ![[Pasted image 20241116120155.png]]
-Throughout all of Charizard's life, it will essentially learn two types of moves: Normal type attacking moves, and Fire type attacking moves. You need to dip into TMs to have any use at all for half of Charizard's move slots! Adding in TM options still only gives us a few more viable choices for our beloved starter, bringing the total number of useful moves by endgame close to around 8.  But TMs distort our number of options a bit -- since most TMs cannot be replenished, any one we use on Charizard is one we can't use anywhere else. So if there are, say, a total 10 good TMs, they can't use up more than 10 of our 24 slots -- the other 14 options have to come from each individual Pokémon's level up learn set.
+Throughout all of Charizard's life, it will essentially learn two types of moves: Normal type attacking moves, and Fire type attacking moves. You need to dip into TMs to have any use at all for half of Charizard's move slots! Adding in TM options still only gives us a few more viable choices for our beloved starter, bringing the total number of useful moves by endgame to around 8.  But TMs distort our number of options a bit -- since most TMs cannot be replenished, any TM we use on Charizard is one we can't use anywhere else. So if there are, say, a total 10 good TMs, they can't use up more than 10 of our 24 slots -- the other 14 options have to come from each individual Pokémon's level up learn set.
 
-Now, 8 options is still more than 4, so it's definitely possible to fill out all four move slots! But in company like this, we're not exactly missing out on much if we use a slot on Strength. Frankly, if we threw Cut onto Charmeleon in the early game, it wouldn't be that great of a loss. We just don't have that many ways to get all 4 move slots to put in work for us, so throwing one away on even 5 of your 6 Pokémon is just not that great a cost.
+Now, 8 options is still more than 4, so it's definitely possible to fill out all four move slots! But in company like this, we're not exactly missing out on much if we use a slot on Strength. Frankly, if we naively threw Cut onto Charmeleon in the early game, it wouldn't be that great of a loss. We just don't have that many ways to get all 4 move slots to put in work for us, so throwing one away on even 5 of your 6 Pokémon is just not that great a cost.
 
 This is in stark contrast to future generations. As the generations went on, _Pokémon_ combat got better and better. Part of the reason for this is that there are many more moves, and many more _good_ moves. By as early as Gen IV, not only was it easy to fill out all 4 of any given Pokémon's move slots, it was consistently difficult to choose which moves to keep! In an environment where each move slot has so many good options, even 5 HMs would have felt burdensome. But _8_ HMs? That feels downright oppressive!
 
