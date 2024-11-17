@@ -72,7 +72,15 @@ Throughout all of Charizard's life, it will essentially learn two types of moves
 
 Now, 8 options is still more than 4, so it's definitely possible to fill out all four move slots! But in company like this, we're not exactly missing out on much if we use a slot on Strength. Frankly, if we naively threw Cut onto Charmeleon in the early game, it wouldn't be that great of a loss. We just don't have that many ways to get all 4 move slots to put in work for us, so throwing one away on even 5 of your 6 Pokémon is just not that great a cost.
 
-This is in stark contrast to future generations. As the generations went on, _Pokémon_ combat got better and better. Part of the reason for this is that there are many more moves, and many more _good_ moves. By as early as Gen IV, not only was it easy to fill out all 4 of any given Pokémon's move slots, it was consistently difficult to choose which moves to keep! In an environment where each move slot has so many good options, even 5 HMs would have felt burdensome. But _8_ HMs? That feels downright oppressive!
+This is in stark contrast to future generations. For example, here's Charizard's Diamond and Pearl learn set:
+
+As the generations went on, _Pokémon_ combat got better and better. Part of the reason for this is that there are many more moves, and many more _good_ moves. By as early as Gen IV, not only was it easy to fill out all 4 of any given Pokémon's move slots, it was consistently difficult to choose which moves to keep! For exaple, let's see how Charizard did in Diamond and Pearl:
+
+![[Pasted image 20241116145306.png]]
+
+Charizard learns attacking moves from 5 different types[^4]. You'll have to choose one type you don't want to have coverage for, because you only have four move slots! In an environment where each move slot has so many good options, even 5 HMs would have felt burdensome. But _8_ HMs? That feels downright oppressive!
+
+[^4]: Including Flying! Charizard, the Fire/Flying type, didn't have a Flying type move at all in Gen 1 -- He couldn't even learn Fly!
 
 So, of the three problems we outlined, two were much less significant in Gen I, and the remaining one was only slightly better in future generations. It's pretty conclusive that, although HMs always suffered from the same problems, HMs were much less problematic when they were introduced than when they were removed.
 
