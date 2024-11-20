@@ -80,7 +80,7 @@ Now, 8 options is still more than 4, so it's definitely possible to fill out all
 
 This is in stark contrast to future generations. For example, here's Charizard's Diamond and Pearl learn set:
 
-![Charzard's Diamond and Pearl Learnset]({{site.url}}/obisidian-blog-test/assets/charizard_dp_learnset.png)
+![Charzard's Diamond and Pearl Learnset]({{site.url}}/obsidian-blog-test/assets/charizard_dp_learnset.png)
 
 Charizard learns attacking moves from 5 different types[^4]. You'll have to choose one type you don't want to have coverage for, because you only have four move slots! In an environment where each move slot has so many good options, even 5 HMs would have felt burdensome. But _8_ HMs? That feels downright oppressive!
 
