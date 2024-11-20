@@ -56,7 +56,7 @@ But there's more to it than that. This problem is the least bad in Gen I for mor
 
 Say, for example, you want to use Flash to get through Rock Tunnel. You're gonna have to sacrifice a move slot for a basically worthless move. But what Pokémon can afford to have only _three_ move slots for the rest of the game? Well, basically everyone. Let's look at Pikachu's learn set, for example:
 
-![Pikachu's Unimpressive Learnset](/_assets/pikachu_rb_learnset.png)
+![Pikachu's Unimpressive Learnset](pikachu_rb_learnset.png)
 
 At the end of this little guy's career, he will have:
 1. An electric attacking move (Thunder Bolt by TM or Thunder otherwise)
