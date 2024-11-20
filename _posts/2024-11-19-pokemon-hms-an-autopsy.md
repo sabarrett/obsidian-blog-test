@@ -10,6 +10,7 @@ Mechanically, this also plays to Pokémon's strengths. The games are often excel
 That's why everyone loves HMs, and they remain a staple of the Pokémon games to this day.
 
 ---
+
 Just kidding! HMs caused some serious problems, and fans' complaints about HMs grew steadily louder over time. By looking at how HMs changed over time, it's evident that Game Freak either capitulated to or agreed with the fans. At first, new HMs were being added every generation, but the compounding problems had clearly reached a critical point sometime before the release of Generation V (_Pokémon Black_ and _White_). Gen V was not only the first generation to _not add_ a new HM, it was also the first generation _remove_ an HM without replacing it with another -- and it removed _two_! Generation VI (_Pokémon X_ and _Y_) was the last generation to feature HMs at all.
 
 We're now up to Generation IX, and HMs have been a thing of the past for three whole generations. If HMs have been non-existent for fully a third of the Pokémon franchise's life, could it be that they were never any good to begin with?
@@ -37,6 +38,7 @@ _Most of these moves were terrible when they were introduced._ There are some ex
 [^1]: I just learned while writing this that Waterfall, while introduced as an HM in Gen II, was actually already a move in Gen I! It was the signature move of the Goldeen evolutionary line. Who knew! Well, people who had a Goldeen in their party knew, I guess.
 
 ---
+
 Note that each of these problems compound on each other. If HMs take up a smaller share of move slots, it's not as big a deal if they're bad in combat, because you don't give up as much to keep them around. If HMs are easy to unlearn, it's not a big deal if they take up a move slot -- you can easily replace that slot with a better move later. So fixing or minimizing even one of these problems lessens all the issues HMs have. So, did these problems get worse over time, or were they always bad?
 
 Let's start with the easy one: HMs were hardest to unlearn in Generation I (_Pokémon Red_ and _Blue_), because it is the only generation in which you simply couldn't unlearn HM moves. Score one for HMs getting better over time. But, even in generations with Move Deleters, the Move Deleters are always found late in the game. At best, you have to wait until badge #6 to unlearn an HM. So, even generations that mitigate this problem still force you to commit to any taught HMs for the majority of the game. This specific problem got better over time, not worse -- but it didn't get dramatically better.
@@ -89,6 +91,7 @@ As the generations went on, _Pokémon_ combat got better and better. Part of the
 So, of the three problems we outlined, two were much less significant in Gen I, and the remaining one was only slightly better in future generations. It's pretty conclusive that, although HMs always suffered from the same problems, HMs were much less problematic when they were introduced than when they were removed.
 
 ---
+
 Were HMs better in earlier generations? Yes. But they were better _because the combat was worse._ Pokémon had fewer moves that were worth using. As the gameplay developed, the combat became more interesting, and part of that was developing more moves that interacted with each other in novel ways. While Game Freak didn't do themselves any favors by making most HMs so bad in combat[^3],  the competition for move slots got more and more fierce over the generations. As such, bad HM moves hurt more and more, until the combat was so good that we couldn't afford to have HMs in the game anymore!
 
 HMs should be remembered as the good idea they were, but one which the series eventually grew past. Because the types of problems HMs posed were always the same, it's easy to misremember those problems as always being equally severe. In fact, HMs were a great idea, and they were implemented well in the context of the first game. It's good HMs are gone, but that doesn't mean they were a mistake to begin with.
