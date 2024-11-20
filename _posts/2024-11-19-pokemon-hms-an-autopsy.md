@@ -1,3 +1,6 @@
+---
+title: "Pokémon HMs: An Autopsy"
+---
 HMs are a genuinely brilliant design choice. Most JRPGs have a very clear line between exploration and combat, and this was especially true at the time Pokémon was originally released. But Pokémon was serious about adding some fun exploration elements to the overworld. It's kind of like a minimal version of a Metroid or Zelda game in that respect. Like those games, you explore the world, you get tools that let you interact with the world in new ways, and then you explore even more. It's fun!
 
 The very clever thing is that, through HMs, you teach _your Pokémon_ the skills that allow you to explore the world, rather than learning them yourself. And the skills are combat abilities, so your exploration tools interact with combat. It emphasizes that your Pokémon are more than just things you send out to battle -- they're companions that explore the world together with you. What a nice idea!
