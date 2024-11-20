@@ -56,7 +56,7 @@ But there's more to it than that. This problem is the least bad in Gen I for mor
 
 Say, for example, you want to use Flash to get through Rock Tunnel. You're gonna have to sacrifice a move slot for a basically worthless move. But what Pokémon can afford to have only _three_ move slots for the rest of the game? Well, basically everyone. Let's look at Pikachu's learn set, for example:
 
-![Pikachu's Unimpressive Learnset]({{site.url}}/assets/pikachu_rb_learnset.png)
+![Pikachu's Unimpressive Learnset]({{site.url}}{{site.base_url}}/assets/pikachu_rb_learnset.png)
 
 At the end of this little guy's career, he will have:
 1. An electric attacking move (Thunder Bolt by TM or Thunder otherwise)
@@ -70,7 +70,7 @@ It may seem unfair to pick an Electric type, since they have famously shallow mo
 
 [^2]: Please note that, while I knew Pikachu's move pool was very shallow before I started writing this, I didn't cherry pick Charizard -- I didn't even know his Gen I move pool before I started writing this. I just thought, "Who's likely to have a deep move pool in Gen I?" and looked up whoever I thought of. I was honestly surprised to only see two types in all of Charizard's level up learn set, but I shouldn't have been. _This is just what Gen I move pools look like._
 
-![Charizard's Red and Blue Learnset]({{site.url}}/assets/charizard_rb_learnset.png)
+![Charizard's Red and Blue Learnset]({{site.url}}{{site.base_url}}/assets/charizard_rb_learnset.png)
 
 Throughout all of Charizard's life, it will essentially learn two varieties of move: Normal type attacking moves, and Fire type attacking moves. You need to dip into TMs to have any use at all for half of Charizard's move slots! Adding in TM options still only gives us a few more viable choices for our beloved starter, bringing the total number of useful moves by endgame to around 8.  But TMs distort our number of options a bit -- since most TMs cannot be replenished, any TM we use on Charizard is one we can't use anywhere else. So if there are, say, a total of 10 good TMs, they can't use up more than 10 of our 24 slots -- the other 14 options have to come from each individual Pokémon's level up learn set.
 
@@ -78,7 +78,7 @@ Now, 8 options is still more than 4, so it's definitely possible to fill out all
 
 This is in stark contrast to future generations. For example, here's Charizard's Diamond and Pearl learn set:
 
-![Charzard's Diamond and Pearl Learnset]({{site.url}}/assets/charizard_dp_learnset.png)
+![Charzard's Diamond and Pearl Learnset]({{site.url}}{{site.base_url}}/assets/charizard_dp_learnset.png)
 
 Charizard learns attacking moves from 5 different types[^4]. You'll have to choose one type you don't want to have coverage for, because you only have four move slots! In an environment where each move slot has so many good options, even 5 HMs would have felt burdensome. But _8_ HMs? That feels downright oppressive!
 
