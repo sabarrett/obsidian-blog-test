@@ -1,7 +1,6 @@
 # Calculus refresher
 
-[Def\'n:]{.underline} **Derivative** is instantaneous change of one
-variable with respect to another. This is formally described as
+[Def\'n:]{.underline} **Derivative** is instantaneous change of one variable with respect to another. This is formally described as
 
 $$\lim_{h \to 0}\frac{f(x+h)-f(x)}{h}$$
 
